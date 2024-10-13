@@ -31,6 +31,8 @@ The optional parameter available under the `--name`, `-n` switch allows you to s
 cargo run -- start --name "John Doe"
 ```
 
+>Hint: you can use a modified version of the boilerplate available in [the clap documentation](https://docs.rs/clap/latest/clap/)
+
 ---
 
 ## Interactive Commands
